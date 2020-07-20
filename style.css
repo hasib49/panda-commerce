@@ -37,7 +37,32 @@
 }
 .categories h1{
     color: white;
+    font-size: 35px;
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact h6{
+    color: gray;
+}
+#Contact{
+    padding: 100px;
+}
+.submit-button{
+    margin: 10px 100px;
+}
+.f{
+    text-align: center;
+    color: gray;
+    font-size: 16px;
+    margin-bottom: 25px;
 }
